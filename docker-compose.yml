@@ -11,7 +11,7 @@ services:
         networks: 
             - deploy
         environment:
-            - VUE_APP_BASE_URL=http://34.201.173.182/v1   
+            - VUE_APP_BASE_URL=http://54.221.172.94/v1   
 networks:
     deploy:
         driver: bridge
